@@ -8,3 +8,6 @@ for i in range(20):
     
 print("Calculation complete.")
 
+def aux_function():
+    # This auxiliary function is defined but not used in the current script.
+    pass
